@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Gem
+  - Fade
+  - "Ta\u015F"
+  - Mole
+  - Obje
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Minimap
+  - Environment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 1846548093
+    locked: 0
+  - name: Zemin
+    uniqueID: 960370523
+    locked: 0
+  - name: "D\xFC\u015Fman"
+    uniqueID: 1251916283
+    locked: 0
+  - name: "Etkile\u015FimliNesne"
+    uniqueID: 860484645
+    locked: 0
+  - name: Coin
+    uniqueID: 3427797549
+    locked: 0
+  - name: Karakter
+    uniqueID: 1172253931
+    locked: 0
+  - name: Environment
+    uniqueID: 2547654213
+    locked: 0
+  - name: Minimap
+    uniqueID: 3369717973
+    locked: 0
+  - name: Buton
+    uniqueID: 1462198375
+    locked: 0
+  - name: UI
+    uniqueID: 1218812793
+    locked: 0
