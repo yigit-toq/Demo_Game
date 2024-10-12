@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 61427f418571b0646bf65894514e8b45
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Belt_6
+    100002: Body
+    100004: Camera
+    100006: Eyes
+    100008: //RootNode
+    100010: Kopiah_8
+    100012: Light
+    100014: Slippers
+    100016: UnityRotator
+    400000: Belt_6
+    400002: Body
+    400004: Camera
+    400006: Eyes
+    400008: //RootNode
+    400010: Kopiah_8
+    400012: Light
+    400014: Slippers
+    400016: UnityRotator
+    2000000: Camera
+    2100000: Skin
+    2100002: Eyelash
+    2100004: Teeth
+    2100006: Iris
+    2100008: Iris_Black
+    2100010: Tears
+    2100012: Belt
+    2100014: Slipper
+    2100016: Kopiah
+    2300000: Belt_6
+    2300002: Kopiah_8
+    2300004: Slippers
+    3300000: Belt_6
+    3300002: Kopiah_8
+    3300004: Slippers
+    4300000: Body
+    4300002: Eyes
+    4300004: Belt_6
+    4300006: Slippers
+    4300008: Kopiah_8
+    7400000: Body|Beard|Base Stack|DefaultLayer
+    7400002: Body|Belt_6|Base Stack|DefaultLayer
+    7400004: Body|Body|Base Stack|DefaultLayer
+    7400006: Body|Eyes|Base Stack|DefaultLayer
+    7400008: Body|Hair_Kopiah|Base Stack|DefaultLayer
+    7400010: Body|Hair|Base Stack|DefaultLayer
+    7400012: Body|Kopiah_8|Base Stack|DefaultLayer
+    7400014: Body|Slippers|Base Stack|DefaultLayer
+    7400016: Eyes|Beard|Base Stack|DefaultLayer
+    7400018: Eyes|Belt_6|Base Stack|DefaultLayer
+    7400020: Eyes|Body|Base Stack|DefaultLayer
+    7400022: Eyes|Eyes|Base Stack|DefaultLayer
+    7400024: Eyes|Hair_Kopiah|Base Stack|DefaultLayer
+    7400026: Eyes|Hair|Base Stack|DefaultLayer
+    7400028: Eyes|Kopiah_8|Base Stack|DefaultLayer
+    7400030: Eyes|Slippers|Base Stack|DefaultLayer
+    7400032: Belt_6|Beard|Base Stack|DefaultLayer
+    7400034: Belt_6|Belt_6|Base Stack|DefaultLayer
+    7400036: Belt_6|Body|Base Stack|DefaultLayer
+    7400038: Belt_6|Eyes|Base Stack|DefaultLayer
+    7400040: Belt_6|Hair_Kopiah|Base Stack|DefaultLayer
+    7400042: Belt_6|Hair|Base Stack|DefaultLayer
+    7400044: Belt_6|Kopiah_8|Base Stack|DefaultLayer
+    7400046: Belt_6|Slippers|Base Stack|DefaultLayer
+    7400048: Slippers|Beard|Base Stack|DefaultLayer
+    7400050: Slippers|Belt_6|Base Stack|DefaultLayer
+    7400052: Slippers|Body|Base Stack|DefaultLayer
+    7400054: Slippers|Eyes|Base Stack|DefaultLayer
+    7400056: Slippers|Hair_Kopiah|Base Stack|DefaultLayer
+    7400058: Slippers|Hair|Base Stack|DefaultLayer
+    7400060: Slippers|Kopiah_8|Base Stack|DefaultLayer
+    7400062: Slippers|Slippers|Base Stack|DefaultLayer
+    7400064: Kopiah_8|Beard|Base Stack|DefaultLayer
+    7400066: Kopiah_8|Belt_6|Base Stack|DefaultLayer
+    7400068: Kopiah_8|Body|Base Stack|DefaultLayer
+    7400070: Kopiah_8|Eyes|Base Stack|DefaultLayer
+    7400072: Kopiah_8|Hair_Kopiah|Base Stack|DefaultLayer
+    7400074: Kopiah_8|Hair|Base Stack|DefaultLayer
+    7400076: Kopiah_8|Kopiah_8|Base Stack|DefaultLayer
+    7400078: Kopiah_8|Slippers|Base Stack|DefaultLayer
+    9500000: //RootNode
+    10800000: Light
+    13700000: Body
+    13700002: Eyes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
