@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kolon
+  - Karakter
+  - Zemin
+  - Puan
+  - Sil
+  - Baklava
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Karakter
+  - Water
+  - UI
+  - Kolon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 3053993583
+    locked: 0
+  - name: Kolonlar
+    uniqueID: 452950137
+    locked: 0
+  - name: Zemin
+    uniqueID: 3855691473
+    locked: 0
+  - name: Baklava
+    uniqueID: 553159383
+    locked: 0
+  - name: Karakter
+    uniqueID: 2904403693
+    locked: 0
+  - name: UI
+    uniqueID: 1680103701
+    locked: 0
