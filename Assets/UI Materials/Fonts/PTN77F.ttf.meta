@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bab5719d95aa98d4991f249b97a84e17
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PT Sans Narrow
+  fontNames:
+  - PT Sans Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9c3787c92a2fe8245a48dc317df577a3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
