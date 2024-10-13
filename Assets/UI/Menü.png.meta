@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: f8b8cc4cfb5855e4cb7cc056d8f3b4f7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Men\xFC_0"
+    21300002: "Men\xFC_1"
+    21300004: "Men\xFC_2"
+    21300006: "Men\xFC_3"
+    21300008: "Men\xFC_4"
+    21300010: "Men\xFC_5"
+    21300012: "Men\xFC_6"
+    21300014: "Men\xFC_7"
+    21300016: "Men\xFC_8"
+    21300018: "Men\xFC_9"
+    21300020: "Men\xFC_10"
+    21300022: "Men\xFC_11"
+    21300024: "Men\xFC_12"
+    21300026: "Men\xFC_13"
+    21300028: "Men\xFC_14"
+    21300030: "Men\xFC_15"
+    21300032: "Men\xFC_16"
+    21300034: "Men\xFC_17"
+    21300036: "Men\xFC_18"
+    21300038: "Men\xFC_19"
+    21300040: "Men\xFC_20"
+    21300042: "Men\xFC_21"
+    21300044: "Men\xFC_22"
+    21300046: "Men\xFC_23"
+    21300048: "Men\xFC_24"
+    21300050: "Men\xFC_25"
+    21300052: "Men\xFC_26"
+    21300054: "Men\xFC_27"
+    21300056: "Men\xFC_28"
+    21300058: "Men\xFC_29"
+    21300060: "Men\xFC_30"
+    21300062: "Men\xFC_31"
+    21300064: "Men\xFC_32"
+    21300066: "Men\xFC_33"
+    21300068: "Men\xFC_34"
+    21300070: "Men\xFC_35"
+    21300072: "Men\xFC_36"
+    21300074: "Men\xFC_37"
+    21300076: "Men\xFC_38"
+    21300078: "Men\xFC_39"
+    21300080: "Men\xFC_40"
+    21300082: "Men\xFC_41"
+    21300084: "Men\xFC_42"
+    21300086: "Men\xFC_43"
+    21300088: "Men\xFC_44"
+    21300090: "Men\xFC_45"
+    21300092: "Men\xFC_46"
+    21300094: "Men\xFC_47"
+    21300096: "Men\xFC_48"
+    21300098: "Men\xFC_49"
+    21300100: "Men\xFC_50"
+    21300102: "Men\xFC_51"
+    21300104: "Men\xFC_52"
+    21300106: "Men\xFC_53"
+    21300108: "Men\xFC_54"
+    21300110: "Men\xFC_55"
+    21300112: "Men\xFC_56"
+    21300114: "Men\xFC_57"
+    21300116: "Men\xFC_58"
+    21300118: "Men\xFC_59"
+    21300120: "Men\xFC_60"
+    21300122: "Men\xFC_61"
+    21300124: "Men\xFC_62"
+    21300126: "Men\xFC_63"
+    21300128: "Men\xFC_64"
+    21300130: "Men\xFC_65"
+    21300132: "Men\xFC_66"
+    21300134: "Men\xFC_67"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Men\xFC_0"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_1"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_2"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_3"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_4"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_5"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_6"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_7"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 465
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_8"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_9"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_10"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_11"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_12"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_13"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_14"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_15"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 409
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_16"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_17"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_18"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_19"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_20"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_21"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_22"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_23"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_24"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_25"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_26"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_27"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_28"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_29"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_30"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_31"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 297
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_32"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_33"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_34"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_35"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_36"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_37"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_38"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_39"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 241
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_40"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_41"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_42"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_43"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_44"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_45"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_46"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_47"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 185
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_48"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_49"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_50"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_51"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_52"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_53"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_54"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_55"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 129
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_56"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_57"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_58"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_59"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_60"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_61"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_62"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_63"
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 73
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_64"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_65"
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_66"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 9
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Men\xFC_67"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

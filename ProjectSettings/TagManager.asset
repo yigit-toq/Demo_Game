@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Karakter
+  - Ghost
+  - "GhostKonu\u015Fma"
+  - GhostText1
+  - GhostText2
+  - CharacterText1
+  - CharacterText2
+  - Salyangoz
+  - Kurukafa
+  - "d\xFC\u015Ferek\xD6ld\xFCn"
+  - arka
+  - hareketliZemin
+  - demonFire
+  - demonengel
+  - can
+  - "biti\u015F"
+  - "t\xFCccar"
+  - "t\xFCccarKapi"
+  - "kad\u0131nEv"
+  - kasap
+  - dukkancik
+  - konus
+  - vagon
+  - "\xFCst"
+  - yasliDur
+  - varil
+  - varilCoin
+  - "yasliY\xFCr\xFC"
+  - triggerArea
+  - karakterKilic
+  - top
+  - kurukafaAlev
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Zemin
+  - Karakter
+  - Kurukafa
+  - Vagon
+  - "D\xFCsman"
+  - hitBox
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ArkaPlan
+    uniqueID: 3437806403
+    locked: 0
+  - name: Zeminler
+    uniqueID: 2490917467
+    locked: 0
+  - name: Coin
+    uniqueID: 2000065603
+    locked: 0
+  - name: Humans
+    uniqueID: 205155091
+    locked: 0
+  - name: "D\xFC\u015Fman"
+    uniqueID: 1187658423
+    locked: 0
+  - name: Karakter
+    uniqueID: 487275729
+    locked: 0
+  - name: UI
+    uniqueID: 1890137541
+    locked: 0
