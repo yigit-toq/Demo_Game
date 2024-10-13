@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Market
+  - Attack
+  - Scythe
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Cat
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Arkaplan
+    uniqueID: 2963041891
+    locked: 0
+  - name: Binalar
+    uniqueID: 2051586787
+    locked: 0
+  - name: Zemin
+    uniqueID: 458728563
+    locked: 0
+  - name: Nesne
+    uniqueID: 3030361431
+    locked: 0
+  - name: "D\xFC\u015Fman"
+    uniqueID: 2069914625
+    locked: 0
+  - name: Karakter
+    uniqueID: 3885072359
+    locked: 0
+  - name: UI
+    uniqueID: 48253639
+    locked: 0
