@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 48a0a555516b4ba4b93df9b0d97634c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9188809562700547408
+    second: spr_Taunt_strip_0
+  - first:
+      213: -8950723899767326342
+    second: spr_Taunt_strip_1
+  - first:
+      213: -1310060639694738761
+    second: spr_Taunt_strip_2
+  - first:
+      213: -3033454397504359021
+    second: spr_Taunt_strip_3
+  - first:
+      213: -6457851273087942242
+    second: spr_Taunt_strip_4
+  - first:
+      213: 8072178207778483292
+    second: spr_Taunt_strip_5
+  - first:
+      213: -6524808069594947228
+    second: spr_Taunt_strip_6
+  - first:
+      213: 4675603199279399284
+    second: spr_Taunt_strip_7
+  - first:
+      213: -4644469739640383020
+    second: spr_Taunt_strip_8
+  - first:
+      213: 8140299717186013194
+    second: spr_Taunt_strip_9
+  - first:
+      213: -4241990367008558795
+    second: spr_Taunt_strip_10
+  - first:
+      213: 5960166317127097172
+    second: spr_Taunt_strip_11
+  - first:
+      213: 8326882135241537613
+    second: spr_Taunt_strip_12
+  - first:
+      213: -6731446349771509471
+    second: spr_Taunt_strip_13
+  - first:
+      213: 2391731007760265339
+    second: spr_Taunt_strip_14
+  - first:
+      213: -4814574031146570493
+    second: spr_Taunt_strip_15
+  - first:
+      213: -6476216495301984242
+    second: spr_Taunt_strip_16
+  - first:
+      213: 1922383520397997318
+    second: spr_Taunt_strip_17
+  - first:
+      213: -8934261147588802017
+    second: spr_Taunt_strip_18
+  - first:
+      213: -5644741187170855783
+    second: spr_Taunt_strip_19
+  - first:
+      213: -6819634654755677058
+    second: spr_Taunt_strip_20
+  - first:
+      213: -1102646357856579392
+    second: spr_Taunt_strip_21
+  - first:
+      213: -9125821718691796279
+    second: spr_Taunt_strip_22
+  - first:
+      213: 2948575096325014192
+    second: spr_Taunt_strip_23
+  - first:
+      213: -4194195941219748690
+    second: spr_Taunt_strip_24
+  - first:
+      213: 3373065775438198497
+    second: spr_Taunt_strip_25
+  - first:
+      213: -3144264418162788988
+    second: spr_Taunt_strip_26
+  - first:
+      213: 2256409212432946265
+    second: spr_Taunt_strip_27
+  - first:
+      213: 2231612024310690997
+    second: spr_Taunt_strip_28
+  - first:
+      213: 3866032682228236064
+    second: spr_Taunt_strip_29
+  - first:
+      213: -7690054147120064657
+    second: spr_Taunt_strip_30
+  - first:
+      213: -4278659295942029977
+    second: spr_Taunt_strip_31
+  - first:
+      213: 1378133530261049277
+    second: spr_Taunt_strip_32
+  - first:
+      213: -7178401858667945372
+    second: spr_Taunt_strip_33
+  - first:
+      213: 1896990337897342097
+    second: spr_Taunt_strip_34
+  - first:
+      213: -2022700627439324677
+    second: spr_Taunt_strip_35
+  - first:
+      213: -7276886727557262063
+    second: spr_Taunt_strip_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_Taunt_strip_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba758a136aca7080800000000000000
+      internalID: -9188809562700547408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba26c80acab1dde0800000000000000
+      internalID: -1310060639694738761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910a477b7a1166a0800000000000000
+      internalID: -6457851273087942242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e03071a93375a0800000000000000
+      internalID: -6524808069594947228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c510b67728f070800000000000000
+      internalID: 8140299717186013194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_11
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bdb96efa3c6b250800000000000000
+      internalID: 5960166317127097172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_13
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 13
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f449a5391592a0800000000000000
+      internalID: -6731446349771509471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_15
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d20b86d623f2db0800000000000000
+      internalID: -4814574031146570493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605336760adadaa10800000000000000
+      internalID: 1922383520397997318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_19
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9941aa12cc9d9a1b0800000000000000
+      internalID: -5644741187170855783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_21
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 13
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09417cafc92b0f0800000000000000
+      internalID: -1102646357856579392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_23
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 13
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2040a8d617be820800000000000000
+      internalID: 2948575096325014192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_26
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 13
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b183bb245d54d0800000000000000
+      internalID: -3144264418162788988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_28
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47781005748fe10800000000000000
+      internalID: 2231612024310690997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_30
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6793613f70774590800000000000000
+      internalID: -7690054147120064657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_32
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfc344e42d102310800000000000000
+      internalID: 1378133530261049277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_34
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19428b069a6735a10800000000000000
+      internalID: 1896990337897342097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Taunt_strip_36
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 12
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115d13d631e430b90800000000000000
+      internalID: -7276886727557262063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

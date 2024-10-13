@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: 1a46d6e6ee375484a82093e8809d8445
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -309539536309994463
+    second: "D\xFCsme_0"
+  - first:
+      213: 5851903429593989745
+    second: "D\xFCsme_1"
+  - first:
+      213: 259069900235738082
+    second: "D\xFCsme_2"
+  - first:
+      213: -2079691599900708413
+    second: "D\xFCsme_3"
+  - first:
+      213: -244803701611542300
+    second: "D\xFCsme_4"
+  - first:
+      213: 6874503626502462225
+    second: "D\xFCsme_5"
+  - first:
+      213: 9169942317093051646
+    second: "D\xFCsme_6"
+  - first:
+      213: -1214483481005030085
+    second: "D\xFCsme_7"
+  - first:
+      213: -841599220862126005
+    second: "D\xFCsme_8"
+  - first:
+      213: 3016733510768358505
+    second: "D\xFCsme_9"
+  - first:
+      213: -7528824230801635526
+    second: "D\xFCsme_10"
+  - first:
+      213: 2770153935677490629
+    second: "D\xFCsme_11"
+  - first:
+      213: 8862121690372819033
+    second: "D\xFCsme_12"
+  - first:
+      213: -6792887067430205507
+    second: "D\xFCsme_0"
+  - first:
+      213: -8500338674256286319
+    second: "D\xFCsme_1"
+  - first:
+      213: -9186724889806868575
+    second: "D\xFCsme_2"
+  - first:
+      213: 2964066426380437555
+    second: "D\xFCsme_3"
+  - first:
+      213: 12458207675751005
+    second: "D\xFCsme_4"
+  - first:
+      213: 1177260578466233383
+    second: "D\xFCsme_5"
+  - first:
+      213: -7441960618084736867
+    second: "D\xFCsme_6"
+  - first:
+      213: 4148396471273782944
+    second: "D\xFCsme_7"
+  - first:
+      213: 7406622175758155447
+    second: "D\xFCsme_8"
+  - first:
+      213: -2772612194562638612
+    second: "D\xFCsme_9"
+  - first:
+      213: -6209126377594042603
+    second: "D\xFCsme_10"
+  - first:
+      213: 3176743184584627042
+    second: "D\xFCsme_11"
+  - first:
+      213: -8526947095657728886
+    second: "D\xFCsme_12"
+  - first:
+      213: -1381993956006727280
+    second: "D\xFCsme_13"
+  - first:
+      213: -6460870820008514317
+    second: "D\xFCsme_13"
+  - first:
+      213: -3013088061150690558
+    second: "D\xFCsme_14"
+  - first:
+      213: -8977327152779982452
+    second: "D\xFCsme_15"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "D\xFCsme_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74a72d331dab1a0800000000000000
+      internalID: -6792887067430205507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_1"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d6072330bb80a80800000000000000
+      internalID: -8500338674256286319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_2"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af62d5d262328080800000000000000
+      internalID: -9186724889806868575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_3"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384113e5ba722920800000000000000
+      internalID: 2964066426380437555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_4"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a1d038ca24c2000800000000000000
+      internalID: 12458207675751005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_5"
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cfc8b3248765010800000000000000
+      internalID: 1177260578466233383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_6"
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90ec9e3f38d8b890800000000000000
+      internalID: -7441960618084736867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_7"
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aef1c98c90129930800000000000000
+      internalID: 4148396471273782944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_8"
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be789b70ab99c660800000000000000
+      internalID: 7406622175758155447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_9"
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7d2326e3b589d0800000000000000
+      internalID: -2772612194562638612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_10"
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517cff9f470c4d9a0800000000000000
+      internalID: -6209126377594042603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "D\xFCsme_11"
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 0
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2635fc3681f061c20800000000000000
+      internalID: 3176743184584627042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

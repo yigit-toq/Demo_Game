@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 22d8089c4df0f8e44b7d98d8dcfe443e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9168396658961621293
+    second: spr_Idle_strip_0
+  - first:
+      213: -314029059331799083
+    second: spr_Idle_strip_1
+  - first:
+      213: 50084547246263522
+    second: spr_Idle_strip_2
+  - first:
+      213: -8927325975047059614
+    second: spr_Idle_strip_3
+  - first:
+      213: -5897403576546682017
+    second: spr_Idle_strip_4
+  - first:
+      213: 5467768180949139379
+    second: spr_Idle_strip_5
+  - first:
+      213: 6120145019611335709
+    second: spr_Idle_strip_6
+  - first:
+      213: -4208320113244273313
+    second: spr_Idle_strip_7
+  - first:
+      213: -1637692612783327286
+    second: spr_Idle_strip_8
+  - first:
+      213: 5980455629194962102
+    second: spr_Idle_strip_9
+  - first:
+      213: -7823000694551588917
+    second: spr_Idle_strip_10
+  - first:
+      213: -4920067686192474687
+    second: spr_Idle_strip_11
+  - first:
+      213: 659905401063497288
+    second: spr_Idle_strip_12
+  - first:
+      213: -3470545904337852754
+    second: spr_Idle_strip_13
+  - first:
+      213: -6277127698302024435
+    second: spr_Idle_strip_14
+  - first:
+      213: 5025321710924349243
+    second: spr_Idle_strip_15
+  - first:
+      213: 3090636739287982697
+    second: spr_Idle_strip_16
+  - first:
+      213: 2252946553779000928
+    second: spr_Idle_strip_0
+  - first:
+      213: -7445386526144260333
+    second: spr_Idle_strip_1
+  - first:
+      213: 6545958453393529843
+    second: spr_Idle_strip_2
+  - first:
+      213: -2632192989113389300
+    second: spr_Idle_strip_3
+  - first:
+      213: 3201151638764658444
+    second: spr_Idle_strip_4
+  - first:
+      213: -6031511180867076462
+    second: spr_Idle_strip_5
+  - first:
+      213: 5735797184133439097
+    second: spr_Idle_strip_6
+  - first:
+      213: -4828087988050339330
+    second: spr_Idle_strip_7
+  - first:
+      213: -294522335137508226
+    second: spr_Idle_strip_8
+  - first:
+      213: -7909177771694707370
+    second: spr_Idle_strip_9
+  - first:
+      213: 8305378236225490851
+    second: spr_Idle_strip_10
+  - first:
+      213: 3000165215364012744
+    second: spr_Idle_strip_11
+  - first:
+      213: 293991223704390026
+    second: spr_Idle_strip_12
+  - first:
+      213: -456611713122804228
+    second: spr_Idle_strip_13
+  - first:
+      213: 3911994715640981261
+    second: spr_Idle_strip_14
+  - first:
+      213: 6659538884612697783
+    second: spr_Idle_strip_15
+  - first:
+      213: -1889179426214127021
+    second: spr_Idle_strip_17
+  - first:
+      213: -8709257326326191400
+    second: spr_Idle_strip_18
+  - first:
+      213: 5415005072268231487
+    second: spr_Idle_strip_19
+  - first:
+      213: 1853190722080455511
+    second: spr_Idle_strip_20
+  - first:
+      213: -1431908109462071260
+    second: spr_Idle_strip_21
+  - first:
+      213: 4295204924615545168
+    second: spr_Idle_strip_22
+  - first:
+      213: 7814284392781864378
+    second: spr_Idle_strip_23
+  - first:
+      213: 8947582395205109773
+    second: spr_Idle_strip_24
+  - first:
+      213: 7824015502807132908
+    second: spr_Idle_strip_25
+  - first:
+      213: 2451432717145325314
+    second: spr_Idle_strip_26
+  - first:
+      213: -9162655514327726492
+    second: spr_Idle_strip_27
+  - first:
+      213: 2491840471825934547
+    second: spr_Idle_strip_28
+  - first:
+      213: -351632450939254643
+    second: spr_Idle_strip_29
+  - first:
+      213: 1648118043344085710
+    second: spr_Idle_strip_30
+  - first:
+      213: 2616396896549396005
+    second: spr_Idle_strip_31
+  - first:
+      213: 3619885381969667060
+    second: spr_Idle_strip_32
+  - first:
+      213: 4100909246122647740
+    second: spr_Idle_strip_33
+  - first:
+      213: -6889976010883480269
+    second: spr_Idle_strip_34
+  - first:
+      213: -6222867478112867845
+    second: spr_Idle_strip_35
+  - first:
+      213: -2695418736899051017
+    second: spr_Idle_strip_36
+  - first:
+      213: -1715084460887931135
+    second: spr_Idle_strip_37
+  - first:
+      213: -2837766671281786087
+    second: spr_Idle_strip_38
+  - first:
+      213: -6094421575126569825
+    second: spr_Idle_strip_39
+  - first:
+      213: -2723682987531638121
+    second: spr_Idle_strip_40
+  - first:
+      213: 4377344004283957731
+    second: spr_Idle_strip_41
+  - first:
+      213: 3330660611681685754
+    second: spr_Idle_strip_42
+  - first:
+      213: -2277698293665120277
+    second: spr_Idle_strip_43
+  - first:
+      213: 7975569013187071419
+    second: spr_Idle_strip_44
+  - first:
+      213: 925761731519129020
+    second: spr_Idle_strip_45
+  - first:
+      213: 1387126877336220251
+    second: spr_Idle_strip_46
+  - first:
+      213: 7567941749717582071
+    second: spr_Idle_strip_47
+  - first:
+      213: -5008410827781309176
+    second: spr_Idle_strip_48
+  - first:
+      213: 2783329021198467169
+    second: spr_Idle_strip_49
+  - first:
+      213: 7017424213493729100
+    second: spr_Idle_strip_50
+  - first:
+      213: 8348013678459369635
+    second: spr_Idle_strip_51
+  - first:
+      213: -3268509547008208256
+    second: spr_Idle_strip_52
+  - first:
+      213: -2315589776110566986
+    second: spr_Idle_strip_53
+  - first:
+      213: 8029734043943867915
+    second: spr_Idle_strip_54
+  - first:
+      213: -6730382621941382852
+    second: spr_Idle_strip_55
+  - first:
+      213: 2531757414169014659
+    second: spr_Idle_strip_56
+  - first:
+      213: -8144376008407988498
+    second: spr_Idle_strip_57
+  - first:
+      213: 7083054657634134623
+    second: spr_Idle_strip_58
+  - first:
+      213: 591853681948961807
+    second: spr_Idle_strip_59
+  - first:
+      213: -475576232453211599
+    second: spr_Idle_strip_60
+  - first:
+      213: -4923780471507777847
+    second: spr_Idle_strip_61
+  - first:
+      213: 3600572101217790264
+    second: spr_Idle_strip_62
+  - first:
+      213: 8100969350234991076
+    second: spr_Idle_strip_63
+  - first:
+      213: -6919964022053576955
+    second: spr_Idle_strip_64
+  - first:
+      213: 1522565437362958279
+    second: spr_Idle_strip_65
+  - first:
+      213: -4914405441810235917
+    second: spr_Idle_strip_66
+  - first:
+      213: 1768436888758308033
+    second: spr_Idle_strip_67
+  - first:
+      213: -7012333955998153284
+    second: spr_Idle_strip_68
+  - first:
+      213: -7424125374535555387
+    second: spr_Idle_strip_69
+  - first:
+      213: 5449073250872860356
+    second: spr_Idle_strip_70
+  - first:
+      213: 8556894293222030406
+    second: spr_Idle_strip_71
+  - first:
+      213: 617725223646859690
+    second: spr_Idle_strip_72
+  - first:
+      213: 2690384618362594969
+    second: spr_Idle_strip_73
+  - first:
+      213: -5772406532222804563
+    second: spr_Idle_strip_74
+  - first:
+      213: 5133539250914108627
+    second: spr_Idle_strip_75
+  - first:
+      213: 944683602038217227
+    second: spr_Idle_strip_76
+  - first:
+      213: 7701417741900480610
+    second: spr_Idle_strip_77
+  - first:
+      213: -4649779427007627724
+    second: spr_Idle_strip_78
+  - first:
+      213: -1879886204570559180
+    second: spr_Idle_strip_79
+  - first:
+      213: 2260574283097561280
+    second: spr_Idle_strip_80
+  - first:
+      213: 7664471271048940617
+    second: spr_Idle_strip_81
+  - first:
+      213: 5816768929901776001
+    second: spr_Idle_strip_82
+  - first:
+      213: -8101350077185052725
+    second: spr_Idle_strip_83
+  - first:
+      213: 887778121191785834
+    second: spr_Idle_strip_84
+  - first:
+      213: -2572833973961364503
+    second: spr_Idle_strip_85
+  - first:
+      213: 1075052120661474687
+    second: spr_Idle_strip_86
+  - first:
+      213: 8878319572251585908
+    second: spr_Idle_strip_87
+  - first:
+      213: 7775708069520185635
+    second: spr_Idle_strip_88
+  - first:
+      213: -4550556180003688697
+    second: spr_Idle_strip_89
+  - first:
+      213: 985696643045674174
+    second: spr_Idle_strip_90
+  - first:
+      213: 8496027005307833184
+    second: spr_Idle_strip_91
+  - first:
+      213: 7576213546690532620
+    second: spr_Idle_strip_92
+  - first:
+      213: 1236808710040916215
+    second: spr_Idle_strip_93
+  - first:
+      213: -7982971446871010874
+    second: spr_Idle_strip_94
+  - first:
+      213: 5183724578757483928
+    second: spr_Idle_strip_95
+  - first:
+      213: -1349087059959101253
+    second: spr_Idle_strip_96
+  - first:
+      213: -4919240499640326320
+    second: spr_Idle_strip_97
+  - first:
+      213: 9129014471209076501
+    second: spr_Idle_strip_98
+  - first:
+      213: -307550236547112482
+    second: spr_Idle_strip_99
+  - first:
+      213: 4207909634901847657
+    second: spr_Idle_strip_100
+  - first:
+      213: 1366871954227296274
+    second: spr_Idle_strip_101
+  - first:
+      213: -8072991606163806463
+    second: spr_Idle_strip_102
+  - first:
+      213: 1241680741080281426
+    second: spr_Idle_strip_103
+  - first:
+      213: 8075519654227650475
+    second: spr_Idle_strip_104
+  - first:
+      213: -8060128473095888026
+    second: spr_Idle_strip_105
+  - first:
+      213: 5647245852102107417
+    second: spr_Idle_strip_106
+  - first:
+      213: 5407551163913699287
+    second: spr_Idle_strip_107
+  - first:
+      213: 8431509771970145330
+    second: spr_Idle_strip_108
+  - first:
+      213: -4134667924180745781
+    second: spr_Idle_strip_109
+  - first:
+      213: 6413120149143809475
+    second: spr_Idle_strip_110
+  - first:
+      213: -1608477409315560955
+    second: spr_Idle_strip_111
+  - first:
+      213: -6505238219804238345
+    second: spr_Idle_strip_112
+  - first:
+      213: -2356748583952820242
+    second: spr_Idle_strip_113
+  - first:
+      213: -3098398416982219566
+    second: spr_Idle_strip_114
+  - first:
+      213: -2376875039724233174
+    second: spr_Idle_strip_115
+  - first:
+      213: 1148071559308406528
+    second: spr_Idle_strip_116
+  - first:
+      213: -7096001321809995990
+    second: spr_Idle_strip_117
+  - first:
+      213: 7232269511769516734
+    second: spr_Idle_strip_118
+  - first:
+      213: 7951041092432265275
+    second: spr_Idle_strip_119
+  - first:
+      213: 6476879018691509943
+    second: spr_Idle_strip_120
+  - first:
+      213: -1256685883406096003
+    second: spr_Idle_strip_121
+  - first:
+      213: -8326611069653398778
+    second: spr_Idle_strip_122
+  - first:
+      213: 8745209647360730003
+    second: spr_Idle_strip_123
+  - first:
+      213: 4482087110031597997
+    second: spr_Idle_strip_124
+  - first:
+      213: -5772301685984175413
+    second: spr_Idle_strip_16
+  - first:
+      213: -2058306744235822545
+    second: spr_Idle_strip_19
+  - first:
+      213: -7211502104344363553
+    second: spr_Idle_strip_22
+  - first:
+      213: 75115819452434468
+    second: spr_Idle_strip_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_Idle_strip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06610fb34f2144f10800000000000000
+      internalID: 2252946553779000928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f6f9f1c62987bd0800000000000000
+      internalID: -2632192989113389300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_6
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e95ff3625a99f40800000000000000
+      internalID: 5735797184133439097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_8
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74d5b32f75a9ebf0800000000000000
+      internalID: -294522335137508226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca51492e5ab2a920800000000000000
+      internalID: 3000165215364012744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_14
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d076cfc97723a4630800000000000000
+      internalID: 3911994715640981261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31711bdd66caca890800000000000000
+      internalID: -7445386526144260333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9cf8088ae7da50800000000000000
+      internalID: 6545958453393529843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_4
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f1abc7476cc6c20800000000000000
+      internalID: 3201151638764658444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_5
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29efe9d8984cb4ca0800000000000000
+      internalID: -6031511180867076462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_7
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9ddef1e8f2ffcb0800000000000000
+      internalID: -4828087988050339330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_9
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65da8b4a8b4fc3290800000000000000
+      internalID: -7909177771694707370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_10
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af0b778081a24370800000000000000
+      internalID: 8305378236225490851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_12
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a898bf7d577741400800000000000000
+      internalID: 293991223704390026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Idle_strip_13
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 16
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd580fe01ac9a9f0800000000000000
+      internalID: -456611713122804228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

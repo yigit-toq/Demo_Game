@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 5fd1e26075a2af14dab5e67ec7267476
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5972136118285097923
+    second: ZiplaAtak_0
+  - first:
+      213: 3611813339860975525
+    second: ZiplaAtak_1
+  - first:
+      213: 7603047980288406490
+    second: ZiplaAtak_2
+  - first:
+      213: 2087304010365925555
+    second: ZiplaAtak_3
+  - first:
+      213: -944554465578194919
+    second: ZiplaAtak_4
+  - first:
+      213: -8077393613881884363
+    second: ZiplaAtak_5
+  - first:
+      213: -439685254182482101
+    second: ZiplaAtak_6
+  - first:
+      213: -6198524724622536816
+    second: ZiplaAtak_7
+  - first:
+      213: -244541638439938349
+    second: ZiplaAtak_8
+  - first:
+      213: -5060570539043685597
+    second: ZiplaAtak_9
+  - first:
+      213: -4909122910030550930
+    second: ZiplaAtak_10
+  - first:
+      213: -3969400052186454104
+    second: ZiplaAtak_11
+  - first:
+      213: -3501495856841060953
+    second: ZiplaAtak_12
+  - first:
+      213: -2987272482308556506
+    second: ZiplaAtak_13
+  - first:
+      213: -6877807763846742876
+    second: ZiplaAtak_14
+  - first:
+      213: -4286760613925064710
+    second: ZiplaAtak_15
+  - first:
+      213: 4731109927515102882
+    second: ZiplaAtak_16
+  - first:
+      213: 649813021162202936
+    second: ZiplaAtak_17
+  - first:
+      213: -7983067139897309683
+    second: ZiplaAtak_18
+  - first:
+      213: -4952352214384184619
+    second: ZiplaAtak_19
+  - first:
+      213: -7412933288782882312
+    second: ZiplaAtak_20
+  - first:
+      213: 867887314715187994
+    second: ZiplaAtak_21
+  - first:
+      213: 3261841561672650620
+    second: ZiplaAtak_22
+  - first:
+      213: -5921947934251723928
+    second: ZiplaAtak_23
+  - first:
+      213: -4379904353813604398
+    second: ZiplaAtak_24
+  - first:
+      213: 9149672919072323840
+    second: ZiplaAtak_25
+  - first:
+      213: -1002116599182743212
+    second: ZiplaAtak_26
+  - first:
+      213: -7723559437614183428
+    second: ZiplaAtak_27
+  - first:
+      213: -7415670874649400639
+    second: ZiplaAtak_28
+  - first:
+      213: 397507966950408045
+    second: ZiplaAtak_29
+  - first:
+      213: 5598601341763163681
+    second: ZiplaAtak_30
+  - first:
+      213: 5708874205557214424
+    second: ZiplaAtak_31
+  - first:
+      213: -6092402206371616159
+    second: ZiplaAtak_32
+  - first:
+      213: 7881975882217664827
+    second: ZiplaAtak_33
+  - first:
+      213: 3182333606430978290
+    second: ZiplaAtak_34
+  - first:
+      213: -2048900476524463408
+    second: ZiplaAtak_35
+  - first:
+      213: -6921954972591160922
+    second: ZiplaAtak_36
+  - first:
+      213: -1034907613089804521
+    second: ZiplaAtak_37
+  - first:
+      213: -5655769889162210968
+    second: ZiplaAtak_38
+  - first:
+      213: 6926079972602783802
+    second: ZiplaAtak_39
+  - first:
+      213: 5891207542973976492
+    second: ZiplaAtak_40
+  - first:
+      213: -394867969058218780
+    second: ZiplaAtak_41
+  - first:
+      213: 3064658797670355222
+    second: ZiplaAtak_42
+  - first:
+      213: -8894809707740821029
+    second: ZiplaAtak_43
+  - first:
+      213: -4088879055608758546
+    second: ZiplaAtak_44
+  - first:
+      213: 2485879627375946432
+    second: ZiplaAtak_45
+  - first:
+      213: 7724984022690031138
+    second: ZiplaAtak_46
+  - first:
+      213: -2563948865148679239
+    second: ZiplaAtak_47
+  - first:
+      213: 8606176423755039416
+    second: ZiplaAtak_48
+  - first:
+      213: 7206345117346434557
+    second: ZiplaAtak_49
+  - first:
+      213: 705450720483804298
+    second: ZiplaAtak_50
+  - first:
+      213: 8564701407576214258
+    second: ZiplaAtak_51
+  - first:
+      213: -8004739157979311128
+    second: ZiplaAtak_52
+  - first:
+      213: -5164795348298343672
+    second: ZiplaAtak_10
+  - first:
+      213: 364567485116082199
+    second: ZiplaAtak_0
+  - first:
+      213: 856111353406901804
+    second: ZiplaAtak_1
+  - first:
+      213: 727294988111773061
+    second: ZiplaAtak_2
+  - first:
+      213: -6658973455838495980
+    second: ZiplaAtak_3
+  - first:
+      213: 2877240394502690594
+    second: ZiplaAtak_4
+  - first:
+      213: -8075834989697042825
+    second: ZiplaAtak_5
+  - first:
+      213: -1720762399219848644
+    second: ZiplaAtak_6
+  - first:
+      213: -235991844320030897
+    second: ZiplaAtak_7
+  - first:
+      213: -7063656435816821141
+    second: ZiplaAtak_8
+  - first:
+      213: 700524759044631830
+    second: ZiplaAtak_9
+  - first:
+      213: 4166608797209601390
+    second: ZiplaAtak_11
+  - first:
+      213: -1240873747665240947
+    second: ZiplaAtak_12
+  - first:
+      213: 8710732808773442481
+    second: ZiplaAtak_14
+  - first:
+      213: -6092280045272336961
+    second: ZiplaAtak_15
+  - first:
+      213: 5288491679105926979
+    second: ZiplaAtak_22
+  - first:
+      213: -1199458747081513942
+    second: ZiplaAtak_42
+  - first:
+      213: -6006319250901431708
+    second: ZiplaAtak_43
+  - first:
+      213: -1884757746408325064
+    second: ZiplaAtak_44
+  - first:
+      213: -7763919241430452296
+    second: ZiplaAtak_45
+  - first:
+      213: 5970453857640329244
+    second: ZiplaAtak_46
+  - first:
+      213: 1824781804073006568
+    second: ZiplaAtak_47
+  - first:
+      213: 1936656498910117988
+    second: ZiplaAtak_48
+  - first:
+      213: 8763596114579755072
+    second: ZiplaAtak_49
+  - first:
+      213: -1249112810860807995
+    second: ZiplaAtak_50
+  - first:
+      213: -8484445158089863611
+    second: ZiplaAtak_13
+  - first:
+      213: 2513085953848074606
+    second: ZiplaAtak_16
+  - first:
+      213: 2755919455405974311
+    second: ZiplaAtak_17
+  - first:
+      213: -6634676081457075501
+    second: ZiplaAtak_18
+  - first:
+      213: 2278668888793314490
+    second: ZiplaAtak_19
+  - first:
+      213: 4646849717056830031
+    second: ZiplaAtak_20
+  - first:
+      213: -7594402845941290869
+    second: ZiplaAtak_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZiplaAtak_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718600732343f0500800000000000000
+      internalID: 364567485116082199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e4ff37db481eb00800000000000000
+      internalID: 856111353406901804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df25530fed71a00800000000000000
+      internalID: 727294988111773061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bbdf33ce29693a0800000000000000
+      internalID: -6658973455838495980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227dcbff4e20ee720800000000000000
+      internalID: 2877240394502690594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776ff6e4ddedcef80800000000000000
+      internalID: -8075834989697042825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_6
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ae6a307bf9e18e0800000000000000
+      internalID: -1720762399219848644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_7
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f4a6dfaa699bcf0800000000000000
+      internalID: -235991844320030897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_8
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e8cbf75e9d8fd90800000000000000
+      internalID: -7063656435816821141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_9
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da83b8e83c8b900800000000000000
+      internalID: 700524759044631830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_11
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6522bb10a4c2d930800000000000000
+      internalID: 4166608797209601390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_12
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c3e43a6e787cee0800000000000000
+      internalID: -1240873747665240947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_14
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb1840965db2e870800000000000000
+      internalID: 8710732808773442481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_15
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5775db39fd37ba0800000000000000
+      internalID: -6092280045272336961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_22
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c7ba992f746940800000000000000
+      internalID: 5288491679105926979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_10
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5617bef5f258b0800000000000000
+      internalID: -5164795348298343672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_13
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e45cbc412314a80800000000000000
+      internalID: -8484445158089863611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_16
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6163213c5640e220800000000000000
+      internalID: 2513085953848074606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_17
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723af09a42efe3620800000000000000
+      internalID: 2755919455405974311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_18
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da68f48145ece3a0800000000000000
+      internalID: -6634676081457075501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_19
+      rect:
+        serializedVersion: 2
+        x: 4921
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4724d08457f9f10800000000000000
+      internalID: 2278668888793314490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_20
+      rect:
+        serializedVersion: 2
+        x: 5180
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4afbc5923dec7040800000000000000
+      internalID: 4646849717056830031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZiplaAtak_21
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 0
+        width: 256
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88247639d24b9690800000000000000
+      internalID: -7594402845941290869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

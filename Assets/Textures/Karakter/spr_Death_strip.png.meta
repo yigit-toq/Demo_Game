@@ -1,0 +1,1393 @@
+fileFormatVersion: 2
+guid: 55d3053a730e5954098e3965decf99e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5816762264772739797
+    second: spr_Death_strip_0
+  - first:
+      213: -768325280531544420
+    second: spr_Death_strip_1
+  - first:
+      213: -7514295990448559657
+    second: spr_Death_strip_2
+  - first:
+      213: 748963819499947031
+    second: spr_Death_strip_3
+  - first:
+      213: 4420751291758949957
+    second: spr_Death_strip_4
+  - first:
+      213: -8226119704173901570
+    second: spr_Death_strip_5
+  - first:
+      213: 4519577923427776642
+    second: spr_Death_strip_6
+  - first:
+      213: -6700023217249205702
+    second: spr_Death_strip_7
+  - first:
+      213: 2421849573554293318
+    second: spr_Death_strip_8
+  - first:
+      213: 4162771850997127152
+    second: spr_Death_strip_9
+  - first:
+      213: -6934561839069940554
+    second: spr_Death_strip_10
+  - first:
+      213: 6810482140059462877
+    second: spr_Death_strip_11
+  - first:
+      213: -5459225536721841036
+    second: spr_Death_strip_12
+  - first:
+      213: -3693121127315992576
+    second: spr_Death_strip_13
+  - first:
+      213: 6596657660084506438
+    second: spr_Death_strip_14
+  - first:
+      213: 5066935971532481064
+    second: spr_Death_strip_15
+  - first:
+      213: -5608498718010389963
+    second: spr_Death_strip_16
+  - first:
+      213: -8765412970425680228
+    second: spr_Death_strip_17
+  - first:
+      213: 311567082650047582
+    second: spr_Death_strip_18
+  - first:
+      213: -1917262608349789233
+    second: spr_Death_strip_19
+  - first:
+      213: 3849386565364450552
+    second: spr_Death_strip_20
+  - first:
+      213: 5324047034241963461
+    second: spr_Death_strip_21
+  - first:
+      213: 8329863831276588296
+    second: spr_Death_strip_22
+  - first:
+      213: -8157588399918901116
+    second: spr_Death_strip_23
+  - first:
+      213: 7497856904849595743
+    second: spr_Death_strip_24
+  - first:
+      213: -3914245059478023961
+    second: spr_Death_strip_25
+  - first:
+      213: -3735063294205927994
+    second: spr_Death_strip_26
+  - first:
+      213: 4699521677829010168
+    second: spr_Death_strip_27
+  - first:
+      213: 8251400086737965601
+    second: spr_Death_strip_28
+  - first:
+      213: -4978014194055612527
+    second: spr_Death_strip_29
+  - first:
+      213: -4985728106674742239
+    second: spr_Death_strip_30
+  - first:
+      213: 2606369420117942688
+    second: spr_Death_strip_31
+  - first:
+      213: -3997775270767100439
+    second: spr_Death_strip_32
+  - first:
+      213: 6725430975258481470
+    second: spr_Death_strip_33
+  - first:
+      213: 8398274395818039202
+    second: spr_Death_strip_34
+  - first:
+      213: -8354572587344520944
+    second: spr_Death_strip_35
+  - first:
+      213: 5945510372526648988
+    second: spr_Death_strip_36
+  - first:
+      213: 8278241914169921169
+    second: spr_Death_strip_37
+  - first:
+      213: -419408298176567923
+    second: spr_Death_strip_38
+  - first:
+      213: 467278600896353753
+    second: spr_Death_strip_39
+  - first:
+      213: -7273571784574598369
+    second: spr_Death_strip_40
+  - first:
+      213: 8480890774510788038
+    second: spr_Death_strip_41
+  - first:
+      213: -6099987014071864878
+    second: spr_Death_strip_42
+  - first:
+      213: 2246280064353988657
+    second: spr_Death_strip_43
+  - first:
+      213: 8136739886187362608
+    second: spr_Death_strip_44
+  - first:
+      213: -7122152664286740479
+    second: spr_Death_strip_45
+  - first:
+      213: 2155255615201062977
+    second: spr_Death_strip_46
+  - first:
+      213: 1105664967048694878
+    second: spr_Death_strip_47
+  - first:
+      213: 1679160694012698551
+    second: spr_Death_strip_48
+  - first:
+      213: -5171854540836521978
+    second: spr_Death_strip_49
+  - first:
+      213: 1969190317538668029
+    second: spr_Death_strip_50
+  - first:
+      213: -3540583465075031427
+    second: spr_Death_strip_51
+  - first:
+      213: -471970723091689348
+    second: spr_Death_strip_52
+  - first:
+      213: 3720718873363517365
+    second: spr_Death_strip_53
+  - first:
+      213: 483181667290963417
+    second: spr_Death_strip_54
+  - first:
+      213: -747894815403324427
+    second: spr_Death_strip_55
+  - first:
+      213: 6375009453667005371
+    second: spr_Death_strip_56
+  - first:
+      213: -1003545555712318395
+    second: spr_Death_strip_57
+  - first:
+      213: 8492833980022566069
+    second: spr_Death_strip_58
+  - first:
+      213: -7365424430424795627
+    second: spr_Death_strip_59
+  - first:
+      213: -7422497743339890872
+    second: spr_Death_strip_60
+  - first:
+      213: 6375778063376826161
+    second: spr_Death_strip_61
+  - first:
+      213: -7690726445260109074
+    second: spr_Death_strip_62
+  - first:
+      213: -2225923742598728224
+    second: spr_Death_strip_63
+  - first:
+      213: -7808999705981634191
+    second: spr_Death_strip_64
+  - first:
+      213: 6628196436259505223
+    second: spr_Death_strip_65
+  - first:
+      213: 2372439008412300933
+    second: spr_Death_strip_66
+  - first:
+      213: -1955952656689832313
+    second: spr_Death_strip_67
+  - first:
+      213: -2179693950898311371
+    second: spr_Death_strip_68
+  - first:
+      213: -5677371159287091201
+    second: spr_Death_strip_69
+  - first:
+      213: 6761223623442871266
+    second: spr_Death_strip_70
+  - first:
+      213: -5099500957879020537
+    second: spr_Death_strip_71
+  - first:
+      213: 7485046335068097900
+    second: spr_Death_strip_72
+  - first:
+      213: -6407903962292282972
+    second: spr_Death_strip_73
+  - first:
+      213: -1046170430770195406
+    second: spr_Death_strip_74
+  - first:
+      213: -7432418184102769362
+    second: spr_Death_strip_75
+  - first:
+      213: -2312575768691451083
+    second: spr_Death_strip_76
+  - first:
+      213: 5246550497157526141
+    second: spr_Death_strip_77
+  - first:
+      213: 2249979056689497987
+    second: spr_Death_strip_78
+  - first:
+      213: -6437189237194990336
+    second: spr_Death_strip_79
+  - first:
+      213: -4841089517241759539
+    second: spr_Death_strip_80
+  - first:
+      213: 854901072137449221
+    second: spr_Death_strip_81
+  - first:
+      213: -9009629891791354274
+    second: spr_Death_strip_82
+  - first:
+      213: -6220456128196439875
+    second: spr_Death_strip_83
+  - first:
+      213: -1455205492308454382
+    second: spr_Death_strip_84
+  - first:
+      213: -80172557589949126
+    second: spr_Death_strip_85
+  - first:
+      213: 1185370082173464291
+    second: spr_Death_strip_86
+  - first:
+      213: 6724442304561754590
+    second: spr_Death_strip_87
+  - first:
+      213: -4537426399844485356
+    second: spr_Death_strip_88
+  - first:
+      213: 1750218100886932478
+    second: spr_Death_strip_89
+  - first:
+      213: -4100456866856828641
+    second: spr_Death_strip_90
+  - first:
+      213: -7060728664744928356
+    second: spr_Death_strip_91
+  - first:
+      213: -1657324708689903817
+    second: spr_Death_strip_92
+  - first:
+      213: -994424927322205942
+    second: spr_Death_strip_93
+  - first:
+      213: 6376416227568079721
+    second: spr_Death_strip_94
+  - first:
+      213: -8307296815358225751
+    second: spr_Death_strip_95
+  - first:
+      213: 6334214867143526407
+    second: spr_Death_strip_96
+  - first:
+      213: -4707247736753011555
+    second: spr_Death_strip_97
+  - first:
+      213: 7702643985910184231
+    second: spr_Death_strip_98
+  - first:
+      213: -6680242130362531445
+    second: spr_Death_strip_99
+  - first:
+      213: -3313572455102445251
+    second: spr_Death_strip_100
+  - first:
+      213: -2792169421157625970
+    second: spr_Death_strip_1
+  - first:
+      213: 2944545230792405794
+    second: spr_Death_strip_3
+  - first:
+      213: -4333295676949328999
+    second: spr_Death_strip_6
+  - first:
+      213: 4026300310150252189
+    second: spr_Death_strip_9
+  - first:
+      213: -8452388262118633240
+    second: spr_Death_strip_12
+  - first:
+      213: -5820111073007059712
+    second: spr_Death_strip_14
+  - first:
+      213: -163394845572824328
+    second: spr_Death_strip_17
+  - first:
+      213: -7960561720672945041
+    second: spr_Death_strip_19
+  - first:
+      213: -1314233509751719556
+    second: spr_Death_strip_22
+  - first:
+      213: -68173189550758800
+    second: spr_Death_strip_25
+  - first:
+      213: -3340418539592128214
+    second: spr_Death_strip_27
+  - first:
+      213: -4120980159476696786
+    second: spr_Death_strip_29
+  - first:
+      213: 2717457006561293675
+    second: spr_Death_strip_32
+  - first:
+      213: 2268561398581751635
+    second: spr_Death_strip_33
+  - first:
+      213: -3710899520822188417
+    second: spr_Death_strip_36
+  - first:
+      213: -661612848725703737
+    second: spr_Death_strip_39
+  - first:
+      213: -5363427902708114334
+    second: spr_Death_strip_0
+  - first:
+      213: 42894552758328807
+    second: spr_Death_strip_2
+  - first:
+      213: -95636973037346477
+    second: spr_Death_strip_4
+  - first:
+      213: -7574688885205317167
+    second: spr_Death_strip_5
+  - first:
+      213: 3006460718532576877
+    second: spr_Death_strip_7
+  - first:
+      213: 4858363869758423277
+    second: spr_Death_strip_8
+  - first:
+      213: -5635295274670764231
+    second: spr_Death_strip_10
+  - first:
+      213: -9183780775209502153
+    second: spr_Death_strip_11
+  - first:
+      213: -3963348064148720641
+    second: spr_Death_strip_13
+  - first:
+      213: 8520694655490764008
+    second: spr_Death_strip_15
+  - first:
+      213: 8245938289511601144
+    second: spr_Death_strip_16
+  - first:
+      213: -8357232114186445608
+    second: spr_Death_strip_18
+  - first:
+      213: -9087753261127462398
+    second: spr_Death_strip_20
+  - first:
+      213: -5616016351123132864
+    second: spr_Death_strip_21
+  - first:
+      213: 764372606210656032
+    second: spr_Death_strip_23
+  - first:
+      213: -5207223378465309663
+    second: spr_Death_strip_24
+  - first:
+      213: 7297326015432372903
+    second: spr_Death_strip_26
+  - first:
+      213: -1512526929484283296
+    second: spr_Death_strip_28
+  - first:
+      213: 3982467343954313502
+    second: spr_Death_strip_30
+  - first:
+      213: -5137788185520226631
+    second: spr_Death_strip_31
+  - first:
+      213: 4491360032273150132
+    second: spr_Death_strip_34
+  - first:
+      213: 4751103125283919655
+    second: spr_Death_strip_35
+  - first:
+      213: -6991946491283124214
+    second: spr_Death_strip_37
+  - first:
+      213: -1151942184886107895
+    second: spr_Death_strip_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_Death_strip_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 14
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f013b74b83049d0800000000000000
+      internalID: -2792169421157625970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 14
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223b37a59402dd820800000000000000
+      internalID: 2944545230792405794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_6
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 14
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b03b46a8a0dd3c0800000000000000
+      internalID: -4333295676949328999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_9
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 14
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d960d81ccca40e730800000000000000
+      internalID: 4026300310150252189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_12
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 14
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0dcb488a513ba80800000000000000
+      internalID: -8452388262118633240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_14
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 14
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db81cb0dfca3fa0800000000000000
+      internalID: -5820111073007059712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_17
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 14
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2808fe0418bbdf0800000000000000
+      internalID: -163394845572824328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_19
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 14
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c77baba47668190800000000000000
+      internalID: -7960561720672945041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_22
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 14
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7975530697e2cde0800000000000000
+      internalID: -1314233509751719556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_25
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 14
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0742f9568dccd0ff0800000000000000
+      internalID: -68173189550758800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_27
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 14
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a296b7a590374a1d0800000000000000
+      internalID: -3340418539592128214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_29
+      rect:
+        serializedVersion: 2
+        x: 4987
+        y: 14
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2975fbf0665fc6c0800000000000000
+      internalID: -4120980159476696786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_32
+      rect:
+        serializedVersion: 2
+        x: 5498
+        y: 14
+        width: 67
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b657b70ffb856b520800000000000000
+      internalID: 2717457006561293675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_33
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 14
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe0a9929c8b7f10800000000000000
+      internalID: 2268561398581751635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_36
+      rect:
+        serializedVersion: 2
+        x: 6176
+        y: 14
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e9380c8c308cc0800000000000000
+      internalID: -3710899520822188417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_39
+      rect:
+        serializedVersion: 2
+        x: 6687
+        y: 14
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ced49e9a71d6f0800000000000000
+      internalID: -661612848725703737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 14
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c1aa83db64195b0800000000000000
+      internalID: -5363427902708114334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 14
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed95f35e54689000800000000000000
+      internalID: 42894552758328807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_4
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 14
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35127b20eaa3caef0800000000000000
+      internalID: -95636973037346477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 14
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9cc31679c41e690800000000000000
+      internalID: -7574688885205317167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_7
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 14
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66cc47381819b920800000000000000
+      internalID: 3006460718532576877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 14
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00b86e2306c6340800000000000000
+      internalID: 4858363869758423277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 14
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fcfc40ec86bc1b0800000000000000
+      internalID: -5635295274670764231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 14
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a739eea08ac8080800000000000000
+      internalID: -9183780775209502153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_13
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 14
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3fe233feb5ff8c0800000000000000
+      internalID: -3963348064148720641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_15
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 14
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca81405a69f3670800000000000000
+      internalID: 8520694655490764008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_16
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 14
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3912a7f257f6270800000000000000
+      internalID: 8245938289511601144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_18
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 14
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc1e60bba5250c80800000000000000
+      internalID: -8357232114186445608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_20
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 14
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2029918de80d1e180800000000000000
+      internalID: -9087753261127462398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_21
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 14
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e258232e6ef02b0800000000000000
+      internalID: -5616016351123132864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_23
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 14
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027c935e5d89b9a00800000000000000
+      internalID: 764372606210656032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_24
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 14
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c37742de93cb7b0800000000000000
+      internalID: -5207223378465309663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_26
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 14
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a23010295f454560800000000000000
+      internalID: 7297326015432372903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_28
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 14
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06280e675cc620be0800000000000000
+      internalID: -1512526929484283296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_30
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 14
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e118df503f0944730800000000000000
+      internalID: 3982467343954313502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_31
+      rect:
+        serializedVersion: 2
+        x: 5326
+        y: 14
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3edecdd8e2b8b0800000000000000
+      internalID: -5137788185520226631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_34
+      rect:
+        serializedVersion: 2
+        x: 5837
+        y: 14
+        width: 73
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b037023724845e30800000000000000
+      internalID: 4491360032273150132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_35
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 14
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727dbc9be1f4fe140800000000000000
+      internalID: 4751103125283919655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_37
+      rect:
+        serializedVersion: 2
+        x: 6348
+        y: 14
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d78a06bd97fe90800000000000000
+      internalID: -6991946491283124214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_Death_strip_38
+      rect:
+        serializedVersion: 2
+        x: 6514
+        y: 14
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9018314afaa7300f0800000000000000
+      internalID: -1151942184886107895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
